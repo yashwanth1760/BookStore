@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Adventure Book",
+        "title": "The Flying Hero",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342943.jpg?t=st=1733255699~exp=1733259299~hmac=428f56b5b0aea114e6ecc64137176583924197864da8c01fa452f2e6e11bbe02&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Science Book",
+        "title": "Exploring the Universe",
+        "price": 0,
+        "category": "Subscription",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342943.jpg?t=st=1733255699~exp=1733259299~hmac=428f56b5b0aea114e6ecc64137176583924197864da8c01fa452f2e6e11bbe02&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Mystery Book",
+        "title": "The Enigma Files",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342943.jpg?t=st=1733255699~exp=1733259299~hmac=428f56b5b0aea114e6ecc64137176583924197864da8c01fa452f2e6e11bbe02&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Biography",
+        "title": "Life of a Genius",
+        "price": 0,
+        "category": "Subscription",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342943.jpg?t=st=1733255699~exp=1733259299~hmac=428f56b5b0aea114e6ecc64137176583924197864da8c01fa452f2e6e11bbe02&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Fantasy Book",
+        "title": "The Magic Realm",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342943.jpg?t=st=1733255699~exp=1733259299~hmac=428f56b5b0aea114e6ecc64137176583924197864da8c01fa452f2e6e11bbe02&w=740"
+    },
+    {
+        "id": 6,
+        "name": "History Book",
+        "title": "Ancient Wonders",
+        "price": 0,
+        "category": "Subscription",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342943.jpg?t=st=1733255699~exp=1733259299~hmac=428f56b5b0aea114e6ecc64137176583924197864da8c01fa452f2e6e11bbe02&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Self-Help Book",
+        "title": "Path to Success",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342943.jpg?t=st=1733255699~exp=1733259299~hmac=428f56b5b0aea114e6ecc64137176583924197864da8c01fa452f2e6e11bbe02&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Children's Book",
+        "title": "Adventures of Tom",
+        "price": 0,
+        "category": "Subscription",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342943.jpg?t=st=1733255699~exp=1733259299~hmac=428f56b5b0aea114e6ecc64137176583924197864da8c01fa452f2e6e11bbe02&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Comic Book",
+        "title": "Superheroes Unite",
+        "price": 0,
+        "category": "Subscription",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342943.jpg?t=st=1733255699~exp=1733259299~hmac=428f56b5b0aea114e6ecc64137176583924197864da8c01fa452f2e6e11bbe02&w=740"
+    },
+    {
+        "id": 10,
+        "name": "Horror Book",
+        "title": "Haunted Manor",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342943.jpg?t=st=1733255699~exp=1733259299~hmac=428f56b5b0aea114e6ecc64137176583924197864da8c01fa452f2e6e11bbe02&w=740"
+    },
+    {
+        "id": 11,
+        "name": "Drama Book",
+        "title": "Tales of the Heart",
+        "price": 0,
+        "category": "Subscription",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342943.jpg?t=st=1733255699~exp=1733259299~hmac=428f56b5b0aea114e6ecc64137176583924197864da8c01fa452f2e6e11bbe02&w=740"
+    },
+    {
+        "id": 12,
+        "name": "Philosophy Book",
+        "title": "Reflections on Life",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342943.jpg?t=st=1733255699~exp=1733259299~hmac=428f56b5b0aea114e6ecc64137176583924197864da8c01fa452f2e6e11bbe02&w=740"
+    },
+    {
+        "id": 13,
+        "name": "Cooking Book",
+        "title": "The Gourmet's Guide",
+        "price": 0,
+        "category": "Subscription",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342943.jpg?t=st=1733255699~exp=1733259299~hmac=428f56b5b0aea114e6ecc64137176583924197864da8c01fa452f2e6e11bbe02&w=740"
+    },
+    {
+        "id": 14,
+        "name": "Travel Book",
+        "title": "Wonders of the World",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342943.jpg?t=st=1733255699~exp=1733259299~hmac=428f56b5b0aea114e6ecc64137176583924197864da8c01fa452f2e6e11bbe02&w=740"
+    },
+    {
+        "id": 15,
+        "name": "Art Book",
+        "title": "Masterpieces of Creativity",
+        "price": 0,
+        "category": "Subscription",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342943.jpg?t=st=1733255699~exp=1733259299~hmac=428f56b5b0aea114e6ecc64137176583924197864da8c01fa452f2e6e11bbe02&w=740"
+    }
+]
